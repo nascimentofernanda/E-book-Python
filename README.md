@@ -1,5 +1,5 @@
-#E-book Python
-###Um pequeno guia sobre conceitos básicos da linguagem mais amigável do mercado.
+# E-book Python
+### Um pequeno guia sobre conceitos básicos da linguagem mais amigável do mercado.
 
 No e-book iremos explorar os principais conceitos de Python de forma clara e concisa, com exemplos práticos e alguns exercícios para consolidar o seu conhecimento. 
 
